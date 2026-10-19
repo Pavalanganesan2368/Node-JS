@@ -1,0 +1,20 @@
+{
+  "name": "06_tut",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start" : "node script.js",
+    "dev": "nodemon script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Express JS Tutorial",
+  "dependencies": {
+    "express": "^5.3.0",
+    "express-generator": "^4.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
